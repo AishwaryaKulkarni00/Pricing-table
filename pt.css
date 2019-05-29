@@ -1,0 +1,195 @@
+body{
+    margin: 0;
+    padding:0;
+    background:white;
+    background-size: auto;
+    background-position: center;
+    font-family: sans-serif;
+
+}
+.cow2{
+  width: 200px;
+  height: 100px;
+  left:50;
+    position: center;
+}
+
+
+.cow4{
+  width: 100px;
+  height: 100px;
+  left:50;
+    position: center;
+}
+
+
+.cow3{
+  width: 150px;
+  height: 100px;
+  left:50;
+    position: center;
+}
+
+
+
+.loginbox1{
+    width: 280px;
+    height: 500px;
+    background: white ;
+    color: black;
+    border-radius: 35px;
+      border-style: groove;
+    top: 70%;
+    left: 26%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 10px 5px;
+}
+
+.loginbox{
+  width: 350px;
+  height: 550px;
+  background: white ;
+  color: black;
+    border-radius: 35px;
+
+    border-style: groove;
+
+
+    top: 70%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    box-shadow: 10000px;
+
+      padding: 30px 10px;
+}
+
+
+
+.loginbox2{
+    width: 280px;
+    height: 500px;
+    background: white ;
+    color: black;
+    border-radius: 35px;
+    top: 70%;
+    left: 74.9%;
+      border-style: groove;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 30px 10px;
+}
+
+
+.bg{
+    width: 2000px;
+    height: 2000px;
+    border-radius: 5%;
+    position: absolute;
+    bottom: calc(30% - 40px);
+
+}
+
+
+
+
+.loginbox2 input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #FF1493 ;
+    color: white;
+    transform: scale(1.5);
+}
+
+
+.loginbox input[type="submit"]:hover
+{
+    cursor: pointer;
+   background: #FF1493 ;
+    color: white;
+
+    transform: scale(1.5);
+}
+
+
+.loginbox1 input[type="submit"]:hover
+{
+    cursor: pointer;
+   background: #FF1493 ;
+    color: white;
+   border-color: #FF1493  ;
+    transform: scale(1.5);
+}
+
+.loginbox2 input[type="submit"]
+{
+
+    background: white;
+     color: pink;
+     font-size: 18px;
+     border-radius: 20px;
+        border-color: #FF1493  ;
+
+}
+
+
+.loginbox input[type="submit"]
+{
+
+    background: white;
+     color: white;
+     font-size: 23px;
+     border-radius: 30px;
+       background: #FF1493 ;
+     /*border-color: #FF1493  ;*/
+
+
+
+}
+
+
+.loginbox1 input[type="submit"]
+{
+
+    background: white;
+     color: pink;
+     font-size: 18px;
+     border-radius: 20px;
+     border-color: pink;
+
+}
+
+
+
+.loginbox:hover
+{
+    cursor: pointer;
+    background: white;
+    color: #000;
+    width: 400px;
+    height: 600px;
+}
+
+
+.loginbox2:hover
+{
+    cursor: pointer;
+    background: white;
+    color: #000;
+    width: 300px;
+    height: 550px;
+}
+
+.loginbox1:hover
+{
+    cursor:zoom-in;
+    background: #ededed;
+    background: white;
+    width: 300px;
+    height: 550px;
+
+}
